@@ -1,0 +1,30 @@
+[
+    {
+        "EmployeeID": 1,
+        "Name": "Alice Johnson",
+        "Age": 29,
+        "Department": "Engineering",
+        "Salary": 85000
+    },
+    {
+        "EmployeeID": 2,
+        "Name": "Bob Smith",
+        "Age": 35,
+        "Department": "Marketing",
+        "Salary": 72000
+    },
+    {
+        "EmployeeID": 3,
+        "Name": "Charlie Lee",
+        "Age": 40,
+        "Department": "Finance",
+        "Salary": 95000
+    },
+    {
+        "EmployeeID": 4,
+        "Name": "Diana Prince",
+        "Age": 27,
+        "Department": "HR",
+        "Salary": 62000
+    }
+]
